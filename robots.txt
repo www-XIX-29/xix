@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://www-xix.github.io/XIX/Sitemaps.xml
+Sitemap: https://www-xix-29.github.io/xix/temaps.xml
